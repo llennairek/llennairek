@@ -50,7 +50,7 @@ Website :    https://inspiring-northcutt-97b79e.netlify.app/
 
 ### **Rock, Paper, Scissors - FrontEnd - My first React app**  
 
-<img src="https://user-images.githubusercontent.com/78684032/122972370-5a612780-d390-11eb-9e69-a8838fd19bdd.JPG" width="612" height="377">
+<img src="https://user-images.githubusercontent.com/78684032/122985246-3a386500-d39e-11eb-82f3-58fd195369eb.JPG" width="291" height="395">
 
 Front :      https://github.com/llennairek/rock-paper-scissors  
 Website :    https://rock-paper-scissors-psi.vercel.app/  
