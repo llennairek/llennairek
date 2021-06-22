@@ -29,7 +29,7 @@ Me who loves to learn, I think I'm facing a bottomless pit !
 Front :      https://github.com/llennairek/marvel-frontend  
 Back :       https://github.com/llennairek/marvel-backend  
 WebSite :    https://modest-hopper-3fe85c.netlify.app/  
-Stack :      React, NodeJS, Express, Heroku and Netlify  
+**React, NodeJS, Express, Heroku and Netlify**  
 
 ### **Vinted Clone - FullStack**  
 
@@ -38,7 +38,7 @@ Stack :      React, NodeJS, Express, Heroku and Netlify
 Front :      https://github.com/llennairek/marvel-frontend  
 Back :       https://github.com/llennairek/marvel-backend  
 Website :    https://angry-banach-5bc60d.netlify.app/  
-React, Stripe, NodeJS, Express, Cloudinary, Heroku and Netlify  
+**React, Stripe, NodeJS, Express, Cloudinary, Heroku and Netlify**  
 
 ### **Deliveroo Clone - FrontEnd**  
 
@@ -46,7 +46,7 @@ React, Stripe, NodeJS, Express, Cloudinary, Heroku and Netlify
 
 Front :      https://github.com/llennairek/deliveroo-frontend  
 Website :    https://inspiring-northcutt-97b79e.netlify.app/  
-React and Netlify  
+**React and Netlify**  
 
 ## Contact me
 
