@@ -1,6 +1,6 @@
 # Hi there I'm Fabrice 👋
 
-After having worked 20 years in IT support, I recently reoriented myself towards a career as a full-stack developer.
+After having worked 20 years in IT support, I recently reoriented myself towards a career as a developer.
 Me who loves to learn, I think I'm facing a bottomless pit !
 
 ## My Stack
@@ -49,8 +49,9 @@ Website :    https://inspiring-northcutt-97b79e.netlify.app/
 React and Netlify  
 
 ## Contact me
-LinkedIn : https://www.linkedin.com/in/fabrice-leclercq/
-Mail : bad4dev@gmail.com
+
+<img src="https://user-images.githubusercontent.com/78684032/122964599-b7a4ab00-d387-11eb-8061-6f31d8b72b3a.png" width="15" height="15">  LinkedIn : https://www.linkedin.com/in/fabrice-leclercq/   
+📧  Mail : bad4dev@gmail.com
 
 <!--
 **llennairek/llennairek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
