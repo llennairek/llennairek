@@ -48,6 +48,10 @@ Front :      https://github.com/llennairek/deliveroo-frontend
 Website :    https://inspiring-northcutt-97b79e.netlify.app/  
 React and Netlify  
 
+## Contact me
+LinkedIn : https://www.linkedin.com/in/fabrice-leclercq/
+Mail : bad4dev@gmail.com
+
 <!--
 **llennairek/llennairek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
