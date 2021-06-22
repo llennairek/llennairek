@@ -51,7 +51,7 @@ Website :    https://inspiring-northcutt-97b79e.netlify.app/
 ## Contact me
 
 <img src="https://user-images.githubusercontent.com/78684032/122964599-b7a4ab00-d387-11eb-8061-6f31d8b72b3a.png" width="15" height="15">  [LinkedIn](https://www.linkedin.com/in/fabrice-leclercq/)  
-📧  [Mail](bad4dev@gmail.com) 
+📧  [Mail](mailto:bad4dev@gmail.com) 
 
 <!--
 **llennairek/llennairek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
