@@ -22,6 +22,16 @@ Me who loves to learn, I think I'm facing a bottomless pit !
 
 ## Some Projects
 
+### **Istya MVP - Mobile App** 
+
+<img src="https://user-images.githubusercontent.com/78684032/123648752-80237c00-d829-11eb-9e39-ce7081663ea3.jpg" width="150" height="300"> <img src="https://user-images.githubusercontent.com/78684032/123648760-81ed3f80-d829-11eb-98d3-4c41e30ce6c6.jpg" width="150" height="300"> <img src="https://user-images.githubusercontent.com/78684032/123649000-bbbe4600-d829-11eb-9708-aa62ab9c887f.jpg" width="150" height="300"> <img src="https://user-images.githubusercontent.com/78684032/123649006-bc56dc80-d829-11eb-9c3f-c2d80731ed20.jpg" width="150" height="300"> <img src="https://user-images.githubusercontent.com/78684032/123649013-bd880980-d829-11eb-8ee2-1b4ccd655ec6.jpg" width="150" height="300"> <img src="https://user-images.githubusercontent.com/78684032/123649021-be20a000-d829-11eb-819a-9f222b31449f.jpg" width="150" height="300">
+
+Expo Link :    exp://exp.host/@istya/NavApp or in your expo application scan the QR code below  
+
+![QR Code](https://user-images.githubusercontent.com/78684032/123650102-90882680-d82a-11eb-8ed8-ae16f213146e.png)
+  
+**React Native, Expo, NodeJS, Express and Heroku**  
+
 ### **Marvel Website - FullStack** 
 
 <img src="https://user-images.githubusercontent.com/78684032/122957675-72ca4580-d382-11eb-808f-bf088733c7b7.JPG" width="612" height="300">
