@@ -29,7 +29,9 @@ Me who loves to learn, I think I'm facing a bottomless pit !
 Front :      https://github.com/llennairek/marvel-frontend  
 Back :       https://github.com/llennairek/marvel-backend  
 WebSite :    https://modest-hopper-3fe85c.netlify.app/  
-**React, NodeJS, Express, Heroku and Netlify**  
+
+<img src="https://user-images.githubusercontent.com/78684032/122961185-719a1800-d384-11eb-906a-3854e856537b.png" width="15" height="15">   JavaScript <img src="https://user-images.githubusercontent.com/78684032/122961496-bcb42b00-d384-11eb-9ed9-d28ebe488d52.png" width="15" height="15">   ReactJs <img src="https://user-images.githubusercontent.com/78684032/122961755-fdac3f80-d384-11eb-9ab8-90f6862bedb8.png" width="15" height="15">   NodeJS <img src="https://user-images.githubusercontent.com/78684032/122961805-0bfa5b80-d385-11eb-9d91-902a3c1c4c35.png" width="15" height="15">   Express <img src="https://user-images.githubusercontent.com/78684032/122962030-4bc14300-d385-11eb-9e93-85680a25a6d6.png" width="15" height="15">   Heroku <img src="https://user-images.githubusercontent.com/78684032/122963272-6811af80-d386-11eb-894b-0b32fff324bf.png" width="15" height="15">   Netlify <img src="https://user-images.githubusercontent.com/78684032/122961978-3f3cea80-d385-11eb-843c-91cb4da109e4.png" width="10" height="20">   MongoDB  
+ 
 
 ### **Istya MVP - Mobile App** 
 
@@ -38,8 +40,9 @@ WebSite :    https://modest-hopper-3fe85c.netlify.app/
 Expo Link :    exp://exp.host/@istya/NavApp or in your expo application scan the QR code below  
 
 ![QR Code](https://user-images.githubusercontent.com/78684032/123650102-90882680-d82a-11eb-8ed8-ae16f213146e.png)
-  
-**React Native, Expo, NodeJS, Express and Heroku**  
+
+<img src="https://user-images.githubusercontent.com/78684032/122961185-719a1800-d384-11eb-906a-3854e856537b.png" width="15" height="15">   JavaScript <img src="https://user-images.githubusercontent.com/78684032/122961496-bcb42b00-d384-11eb-9ed9-d28ebe488d52.png" width="15" height="15">   React Native <img src="https://user-images.githubusercontent.com/78684032/123956638-3367ae80-d9ab-11eb-997d-e5b32b938702.png" width="15" height="15">   Expo  <img src="https://user-images.githubusercontent.com/78684032/122961755-fdac3f80-d384-11eb-9ab8-90f6862bedb8.png" width="15" height="15">   NodeJS <img src="https://user-images.githubusercontent.com/78684032/122961805-0bfa5b80-d385-11eb-9d91-902a3c1c4c35.png" width="15" height="15">   Express <img src="https://user-images.githubusercontent.com/78684032/122962030-4bc14300-d385-11eb-9e93-85680a25a6d6.png" width="15" height="15">   Heroku  <img src="https://user-images.githubusercontent.com/78684032/122961978-3f3cea80-d385-11eb-843c-91cb4da109e4.png" width="10" height="20">   MongoDB  
+
 
 ### **Vinted Clone - FullStack**  
 
@@ -48,7 +51,9 @@ Expo Link :    exp://exp.host/@istya/NavApp or in your expo application scan the
 Front :      https://github.com/llennairek/vinted-frontend  
 Back :       https://github.com/llennairek/Vinted-backend  
 Website :    https://angry-banach-5bc60d.netlify.app/  
-**React, Stripe, NodeJS, Express, Cloudinary, Heroku and Netlify**  
+
+<img src="https://user-images.githubusercontent.com/78684032/122961185-719a1800-d384-11eb-906a-3854e856537b.png" width="15" height="15">   JavaScript <img src="https://user-images.githubusercontent.com/78684032/122961496-bcb42b00-d384-11eb-9ed9-d28ebe488d52.png" width="15" height="15">   ReactJs <img src="https://user-images.githubusercontent.com/78684032/122961755-fdac3f80-d384-11eb-9ab8-90f6862bedb8.png" width="15" height="15">   NodeJS <img src="https://user-images.githubusercontent.com/78684032/122961805-0bfa5b80-d385-11eb-9d91-902a3c1c4c35.png" width="15" height="15">   Express <img src="https://user-images.githubusercontent.com/78684032/122962030-4bc14300-d385-11eb-9e93-85680a25a6d6.png" width="15" height="15">   Heroku <img src="https://user-images.githubusercontent.com/78684032/122963272-6811af80-d386-11eb-894b-0b32fff324bf.png" width="15" height="15">   Netlify <img src="https://user-images.githubusercontent.com/78684032/122961978-3f3cea80-d385-11eb-843c-91cb4da109e4.png" width="10" height="20">   MongoDB
+
 
 ### **Deliveroo Clone - FrontEnd**  
 
@@ -56,7 +61,9 @@ Website :    https://angry-banach-5bc60d.netlify.app/
 
 Front :      https://github.com/llennairek/deliveroo-frontend  
 Website :    https://inspiring-northcutt-97b79e.netlify.app/  
-**React and Netlify**  
+
+<img src="https://user-images.githubusercontent.com/78684032/122961185-719a1800-d384-11eb-906a-3854e856537b.png" width="15" height="15">   JavaScript <img src="https://user-images.githubusercontent.com/78684032/122961496-bcb42b00-d384-11eb-9ed9-d28ebe488d52.png" width="15" height="15">   ReactJs <img src="https://user-images.githubusercontent.com/78684032/122963272-6811af80-d386-11eb-894b-0b32fff324bf.png" width="15" height="15">   Netlify 
+
 
 ### **AirBNB Clone - Mobile App** 
 
@@ -64,7 +71,7 @@ Website :    https://inspiring-northcutt-97b79e.netlify.app/
 
 Front :      https://github.com/llennairek/react-native-airbnb  
   
-**React Native, Expo**
+<img src="https://user-images.githubusercontent.com/78684032/122961185-719a1800-d384-11eb-906a-3854e856537b.png" width="15" height="15">   JavaScript <img src="https://user-images.githubusercontent.com/78684032/122961496-bcb42b00-d384-11eb-9ed9-d28ebe488d52.png" width="15" height="15">   React Native <img src="https://user-images.githubusercontent.com/78684032/123956638-3367ae80-d9ab-11eb-997d-e5b32b938702.png" width="15" height="15">   Expo  
 
 
 ### **Rock, Paper, Scissors - FrontEnd**  
@@ -73,7 +80,9 @@ Front :      https://github.com/llennairek/react-native-airbnb
 
 Front :      https://github.com/llennairek/rock-paper-scissors  
 Website :    https://rock-paper-scissors-psi.vercel.app/  
-**React and Vercel**  
+
+<img src="https://user-images.githubusercontent.com/78684032/122961185-719a1800-d384-11eb-906a-3854e856537b.png" width="15" height="15">   JavaScript <img src="https://user-images.githubusercontent.com/78684032/122961496-bcb42b00-d384-11eb-9ed9-d28ebe488d52.png" width="15" height="15">   ReactJs <img src="https://user-images.githubusercontent.com/78684032/123623614-f3b79000-d80d-11eb-8c5c-17e50bd33203.png" width="60" height="15">
+
 
 
 ## Contact me
