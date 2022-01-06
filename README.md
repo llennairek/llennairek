@@ -7,6 +7,7 @@ Me who loves to learn, I think I'm facing a bottomless pit !
 
 
 <img src="https://user-images.githubusercontent.com/78684032/122961185-719a1800-d384-11eb-906a-3854e856537b.png" width="15" height="15">   JavaScript  
+<img src="https://user-images.githubusercontent.com/78684032/148371700-2fc681c8-d374-4952-a9ab-005e280d948a.png" width="15" height="15">   NextJS  
 <img src="https://user-images.githubusercontent.com/78684032/122961496-bcb42b00-d384-11eb-9ed9-d28ebe488d52.png" width="15" height="15">   ReactJS  
 <img src="https://user-images.githubusercontent.com/78684032/122961496-bcb42b00-d384-11eb-9ed9-d28ebe488d52.png" width="15" height="15">   React Native  
 <img src="https://user-images.githubusercontent.com/78684032/122961755-fdac3f80-d384-11eb-9ab8-90f6862bedb8.png" width="15" height="15">   NodeJS  
